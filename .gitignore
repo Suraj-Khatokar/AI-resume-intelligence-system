@@ -9,3 +9,13 @@ node_modules/
 # Environment
 .env
 
+__pycache__/
+*.pyc
+venv/
+uploads/
+vectorizer.pkl
+.env
+
+# ML artifacts
+model.pkl
+vectorizer.pkl
